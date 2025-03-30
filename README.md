@@ -3,7 +3,7 @@
 #### Project Title: Power BI Data Cleaning Process
 
 
-![Power Bi, data cleaning](https://github.com/user-attachments/assets/dfb56aa4-ed3f-478c-9a51-f82f136a75ee)
+
 
 
 ### Project Overview
@@ -42,4 +42,4 @@ Data cleaning is a crucial step in data analysis and business intelligence. A we
 - Implementing automated scripts for repetitive cleaning tasks.
 - Integrating Power BI dashboards for interactive data visualization.
 
-![Power Bi, data cleaning](https://github.com/user-attachments/assets/90175a6f-3f2e-41c8-8c26-fb3c89611fb6)
+

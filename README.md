@@ -1,9 +1,6 @@
-# LITA_CLASS_PROJECT
+l# LITA_CLASS_PROJECT
 
 #### Project Title: Power BI Data Cleaning Process
-
-
-![Power Bi, data cleaning](https://github.com/user-attachments/assets/96bf32c6-7da3-49c7-ac7b-e6c1d6faedc1)
 
 
 

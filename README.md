@@ -1,7 +1,6 @@
 l# LITA_CLASS_PROJECT
 
-#### Project Title: Power BI Data Cleaning Process
-
+####Project Title: Power BI Data Cleaning Process
 
 
 ### Project Overview
@@ -41,3 +40,4 @@ Data cleaning is a crucial step in data analysis and business intelligence. A we
 - Integrating Power BI dashboards for interactive data visualization.
 
 
+![Power Bi, data cleaning](https://github.com/user-attachments/assets/7ce40613-209a-49ec-937a-20b24aaf397a)
